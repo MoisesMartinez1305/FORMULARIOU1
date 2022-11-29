@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="formulario_de_datos_personales">Formulario de Datos Personales</string>
+    <string name="escribe_tu_edad">Escribe tu edad</string>
+    <string name="direccion">Direccion</string>
+    <string name="escolaridad">Escolaridad</string>
+    <string name="edad">Edad</string>
+    <string name="ultimo_grado_de_estudios">Ultimo grado de estudios</string>
+    <string name="string_ultimo_grado_de_estudios" />
+    <string name="soltero_casado_etc">Soltero, Casado, etc.</string>
+    <string name="andar_en_bici_etc">Andar en bici, etc.</string>
+    <string name="escribe_tu_direccion">Escribe tu direccion</string>
+    <string name="situacion_sentimental">Situacion Sentimental</string>
+    <string name="nombre">Nombre</string>
+    <string name="escribe_tu_nombre">Escribe tu nombre</string>
+    <string name="hobbie">Hobbie</string>
+    <string name="alta">Alta</string>
+    <string name="limpiar">Limpiar</string>
+</resources>
